@@ -1,0 +1,7 @@
+view To preview = product previews/page views
+
+preview to purchase = sold/product preview
+
+EPV= (all earn in a month)/(all page previews in a month)
+
+Avg Price = ( all earn in a month)/(all units sold in a month)
