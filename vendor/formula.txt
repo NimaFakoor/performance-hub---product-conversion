@@ -5,3 +5,12 @@ preview to purchase = sold/product preview
 EPV= (all earn in a month)/(all page previews in a month)
 
 Avg Price = ( all earn in a month)/(all units sold in a month)
+
+Product previews=D13
+Sold=F13
+=ifs(F13="-","Freebie",D13=0,"Create Preview",
+and (vtp>=16%,ptp>=22%),"Top Performing",
+and(vtp>=16%,ptp<=22%)," Optimize Preview",
+and(vtp<=16%,ptp>=22%),"Optimize Cover and Thumbnail",
+and(vtp<=16%,ptp<=22%),"Optimize Preview,
+Cover and Thumbnail")
