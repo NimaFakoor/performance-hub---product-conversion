@@ -15,9 +15,7 @@ first, download this repo:
 
     gh repo clone NimaFakoor/BI-sample-store-problem
 
-second, open project directory and import SQL(script)
-
-third, open:
+second, open:
 
     index.pbix
 
