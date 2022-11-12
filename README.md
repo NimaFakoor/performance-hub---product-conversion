@@ -19,12 +19,14 @@ second, open project directory and import SQL(script)
 
 third, open:
 
-    store.pbix
+    index.pbix
 
 
 ##  will developed
 
 
 # This project is built and maintained by people
-n.fakoor0@gmail.com || Nima Fekoor
+
+n.fakoor0@gmail.com || Nima Fakoor
+
 vajihemobasheri76@gmail.com || Vajihe Mobasheri
